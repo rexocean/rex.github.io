@@ -30,10 +30,10 @@
 #   icon: 'fab fa-stack-overflow'
 #   url:  ''                  # Fill with your stackoverflow homepage
 
-# -
-#   type: gitee
-#   icon: 'fab fa-square-git'
-#   url:  'https://gitee.com/QMMMS'
+-
+  type: gitee
+  icon: 'fab fa-square-git'
+  url:  '../assets/img/about/aria.jpg'
 
 -
   type: bili
@@ -44,9 +44,10 @@
 -
   type: weixin
   icon: 'fab fa-weixin'
+  # url: '/assets/file/contact/wechat.jpg'
   url: '../assets/file/contact/wechat.jpg'
 
 -
   type: cv
   icon: 'fas fa-file-pdf'  # 使用 PDF 图标
-  url: '../assets/file/contact/cv.pdf'  # 更新为你实际的 CV 文件路径
+  url: '/assets/file/contact/cv.pdf'  # 更新为你实际的 CV 文件路径
