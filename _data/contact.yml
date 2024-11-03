@@ -30,10 +30,10 @@
 #   icon: 'fab fa-stack-overflow'
 #   url:  ''                  # Fill with your stackoverflow homepage
 
--
-  type: gitee
-  icon: 'fab fa-square-git'
-  url:  '../assets/img/about/aria.jpg'
+# -
+#   type: gitee
+#   icon: 'fab fa-square-git'
+#   url:  '../assets/img/about/aria.jpg'
 
 -
   type: bili
@@ -41,13 +41,13 @@
   url:  'https://space.bilibili.com/101015834'
 
 
--
-  type: weixin
-  icon: 'fab fa-weixin'
-  # url: '/assets/file/contact/wechat.jpg'
-  url: '/assets/contact/wechat.jpg'
+# -
+#   type: weixin
+#   icon: 'fab fa-weixin'
+#   # url: '/assets/file/contact/wechat.jpg'
+#   url: '/assets/contact/wechat.jpg'
 
--
-  type: cv
-  icon: 'fas fa-file-pdf'  # 使用 PDF 图标
-  url: '/assets/contact/cv.pdf'  # 更新为你实际的 CV 文件路径
+# -
+#   type: cv
+#   icon: 'fas fa-file-pdf'  # 使用 PDF 图标
+#   url: '/assets/contact/cv.pdf'  # 更新为你实际的 CV 文件路径
