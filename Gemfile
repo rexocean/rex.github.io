@@ -3,7 +3,7 @@
 source "https://rubygems.org"
 
 gem 'nokogiri', '>= 1.15.3', '< 2.0'
-gem "jekyll", "~> 4.3.0" # 或者尝试其他版本
+# gem "jekyll", "~> 4.3.0" # 或者尝试其他版本
 gem "github-pages", group: :jekyll_plugins
 
 gem "jekyll-theme-chirpy", "~> 7.1", ">= 7.1.1"
