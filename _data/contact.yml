@@ -45,7 +45,7 @@
   type: weixin
   icon: 'fab fa-weixin'
   # url: '/assets/file/contact/wechat.jpg'
-  url: '../assets/file/contact/wechat.jpg'
+  url: '/assets/file/contact/wechat.jpg'
 
 -
   type: cv
