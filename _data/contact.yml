@@ -1,40 +1,52 @@
 #  The contact options.
 
-- type: github
-  icon: "fab fa-github"
+-
+  type: github
+  icon: 'fab fa-github'
+# -
+#   type: twitter
+#   icon: 'fab fa-twitter'
+-
+  # type: gitbook
+  # icon: 'fas fa-book'
+  # url: 'https://qmmms.gitbook.io/note/'
+# -
+#   type: rss
+#   icon: 'fas fa-rss'
+#   noblank: true
 
-- type: twitter
-  icon: "fa-brands fa-x-twitter"
-
-- type: email
-  icon: "fas fa-envelope"
-  noblank: true # open link in current tab
-
-- type: rss
-  icon: "fas fa-rss"
-  noblank: true
 # Uncomment and complete the url below to enable more contact options
-#
-# - type: mastodon
+# -
+#   type: mastodon
 #   icon: 'fab fa-mastodon'   # icons powered by <https://fontawesome.com/>
 #   url:  ''                  # Fill with your Mastodon account page, rel="me" will be applied for verification
-#
-# - type: linkedin
+# -
+#   type: linkedin
 #   icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
 #   url:  ''                  # Fill with your Linkedin homepage
-#
-# - type: stack-overflow
+
+# -
+#   type: stack-overflow
 #   icon: 'fab fa-stack-overflow'
 #   url:  ''                  # Fill with your stackoverflow homepage
-#
-# - type: bluesky
-#   icon: 'fa-brands fa-bluesky'
-#   url: ''                   # Fill with your Bluesky profile link
-#
-# - type: reddit
-#   icon: 'fa-brands fa-reddit'
-#   url: ''                   # Fill with your Reddit profile link
-#
-# - type: threads
-#   icon: 'fa-brands fa-threads'
-#   url: ''                   # Fill with your Threads profile link
+
+# -
+#   type: gitee
+#   icon: 'fab fa-square-git'
+#   url:  'https://gitee.com/QMMMS'
+
+-
+  type: bili
+  icon: 'fab fa-bilibili'
+  url:  'https://space.bilibili.com/101015834'
+
+
+-
+  type: weixin
+  icon: 'fab fa-weixin'
+  url: '../assets/file/contact/wechat.jpg'
+
+-
+  type: cv
+  icon: 'fas fa-file-pdf'  # 使用 PDF 图标
+  url: '../assets/file/contact/cv.pdf'  # 更新为你实际的 CV 文件路径

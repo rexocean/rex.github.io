@@ -2,7 +2,10 @@
 
 source "https://rubygems.org"
 
-gem "jekyll-theme-chirpy", "~> 5.4", ">= 5.4.0"
+# gem "jekyll-theme-chirpy", "~> 5.4", ">= 5.4.0"
+
+# gem 'nokogiri', '>= 1.15.3', '< 2.0'
+# gem "jekyll", "~> 4.3.0" # 或者尝试其他版本
 
 gem "html-proofer", "~> 5.0", group: :test
 
