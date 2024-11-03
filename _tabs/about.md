@@ -22,8 +22,8 @@ hello👋，fay的博客欢迎你👏
 ## 一些热爱的人
 
 <div style="text-align: center;">
-    <img src="/assets/img/about/aria.jpg" alt="my girl" width="200" height="150" />
-    <img src="/assets/img/about/mia.jpg" alt="my cat" width="200" height="150" />
+    <img src="../assets/img/about/aria.jpg" alt="my girl" width="200" height="150" />
+    <img src="../assets/img/about/mia.jpg" alt="my cat" width="200" height="150" />
     <br>
     my girl、my cat
 </div>
