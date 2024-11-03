@@ -1,5 +1,8 @@
 # The Site Configuration
 
+# links_check: false
+
+
 # Import the theme
 theme: jekyll-theme-chirpy
 remote_theme: "chirpy"
